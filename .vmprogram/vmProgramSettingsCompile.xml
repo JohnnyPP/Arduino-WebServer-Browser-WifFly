@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="ArduinoWebServerBrowserWifFly" Ext=".pde" Location="C:\Users\Kolan\Documents\Arduino\ArduinoWebServerBrowserWifFly" IncludeDebugInformation="0">
+    <Compile CompilerErrors="0" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\Kolan\AppData\Local\VMicro\Arduino\Builds\ArduinoWebServerBrowserWifFly\uno" IncludesDebug="0" SketchName="ArduinoWebServerBrowserWifFly" IsCompiled="1" />
+    <Platform Name="Arduino">
+      <Board Name="uno" Description="Arduino Uno" CoreFolder="C:\arduino-1.0\hardware\arduino\cores\arduino" VariantFullPath="C:\arduino-1.0\hardware\arduino\variants\standard" />
+    </Platform>
+  </Program>
+</VisualMicro>
